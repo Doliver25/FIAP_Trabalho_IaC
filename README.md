@@ -6,7 +6,7 @@ Repositório dedicado à avaliação final da disciplina **Infrastructure as Cod
 
 ## 🚀 Visão Geral do Projeto
 
-O projeto utiliza uma abordagem modular e escalável para implantar recursos de computação, rede, segurança e orquestração de contêineres na Amazon Web Services (AWS)[cite: 1].
+O projeto utiliza uma abordagem modular e escalável para implantar recursos de computação, rede, segurança e orquestração de contêineres na Amazon Web Services (AWS).
 
 ### Cobertura dos Requisitos e Bônus (FIAP)
 | Requisito / Bônus | Implementação no Repositório | Status |
