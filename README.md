@@ -55,4 +55,4 @@ O projeto utiliza uma abordagem modular e escalável para implantar recursos de 
 ├── .gitignore                      # Proteção de arquivos temporários e estados
 ├── README.md                 # LEIA-ME
 
-![Olha a Pedra](img/pedra.png)
+![Olha a Pedra](./img/pedra.png)
