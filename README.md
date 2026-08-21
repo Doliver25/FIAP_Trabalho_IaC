@@ -2,10 +2,6 @@
 
 Repositório dedicado à avaliação final da disciplina **Infrastructure as Code**, contemplando o provisionamento automatizado de infraestrutura na AWS via **Terraform** e automação via **GitHub Actions**.
 
-# FIAP - Infrastructure as Code (IaC)
-
-Repositório dedicado à avaliação final da disciplina **Infrastructure as Code**, contemplando o provisionamento automatizado de infraestrutura na AWS via **Terraform** e automação via **GitHub Actions**.
-
 ---
 
 ## 👥 Integrantes do Grupo
