@@ -2,6 +2,22 @@
 
 Repositório dedicado à avaliação final da disciplina **Infrastructure as Code**, contemplando o provisionamento automatizado de infraestrutura na AWS via **Terraform** e automação via **GitHub Actions**.
 
+# FIAP - Infrastructure as Code (IaC)
+
+Repositório dedicado à avaliação final da disciplina **Infrastructure as Code**, contemplando o provisionamento automatizado de infraestrutura na AWS via **Terraform** e automação via **GitHub Actions**.
+
+---
+
+## 👥 Integrantes do Grupo
+
+| RM | Nome | Papel |
+| :---: | :--- | :---: |
+| `371052` | **Douglas Santos Oliveira** | 💻 *Integrante* |
+| `373242` | **Bruno Yamaguchi** | 💻 *Integrante* |
+| `371359` | **Juan Souza de Paiva** | 💻 *Integrante* |
+| `373853` | **Rafael Araújo Moreno Monteiro** | 💻 *Integrante* |
+| `374304` | **Rafael Tafarello Leardini** | 💻 *Integrante* |
+
 ---
 
 ## 🚀 Visão Geral do Projeto
