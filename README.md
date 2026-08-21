@@ -59,4 +59,5 @@ O projeto utiliza uma abordagem modular e escalável para implantar recursos de 
 ```
 
 # Dance...dance
-![](img/dancing-mushroom.gif)
+<img src="img/dancing-mushroom.gif" alt="Cogumelo dançante" width="50"/>
+
