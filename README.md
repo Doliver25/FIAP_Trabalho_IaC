@@ -53,5 +53,6 @@ O projeto utiliza uma abordagem modular e escalável para implantar recursos de 
 │   ├── sg/                         # Módulo para Security Groups
 │   └── vpc/                        # Módulo para Virtual Private Cloud
 ├── .gitignore                      # Proteção de arquivos temporários e estados
-├── documentacao.md                 # Roteiro e relatórios de evidências
-└── LICENSE.txt
+├── README.md                 # LEIA-ME
+
+![OLHA A PEDRA](img/pedra.png)
