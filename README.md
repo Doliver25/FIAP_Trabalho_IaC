@@ -56,7 +56,7 @@ O projeto utiliza uma abordagem modular e escalável para implantar recursos de 
 │   └── vpc/                        # Módulo para Virtual Private Cloud
 ├── .gitignore                      # Proteção de arquivos temporários e estados
 ├── README.md                 # LEIA-ME
-
+```
 
 # Dance...dance
 ![](img/dancing-mushroom.gif)
